@@ -5,5 +5,6 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
 
 \f0\fs24 \cf0 # Default is "World"\
+# Author: Rishi Chopra (idfubar@rishichopra.org)\
 name = ARGV.first || "World"\
 puts "Hello, #\{name\}!"}
